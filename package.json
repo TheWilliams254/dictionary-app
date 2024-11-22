@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "habit-tracker",
+=======
+  "name": "dictionary-app",
+>>>>>>> bd0d034321d6b72eadcec70cb4fba20bcb42d9d6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,10 +12,14 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+<<<<<<< HEAD
     "react-router-dom": "^6.28.0",
     "react-scripts": "5.0.1",
     "recharts": "^2.13.3",
     "styled-components": "^6.1.13",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> bd0d034321d6b72eadcec70cb4fba20bcb42d9d6
     "web-vitals": "^2.1.4"
   },
   "scripts": {
